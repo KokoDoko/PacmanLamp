@@ -70,7 +70,7 @@ void chasedByGhosts() {
 
   // run back
   for(int i=strip.numPixels(); i>-14; i--) {
-      // pacman - i is position, 0 is ruimte tussen pacman en kleur (elke ghost iets verder)
+      // pacman - i is position, 0 is space between pacman and ghost (increases per ghost)
       checkLed(yellow, i, 0);
 
       checkLed(yellow, i, 0);
