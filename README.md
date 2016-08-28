@@ -8,3 +8,6 @@ A led lamp displaying the difficult life of Pacman
 - Upload the code to your board
 
 ![Pacman lamp diagram](/pacmanlamp_diagram.png?raw=true "Pacman lamp diagram")
+
+## More info
+[http://www.eerkmans.nl/pacman-lamp-with-arduino/](Read more about the pacman lamp here)
