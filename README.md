@@ -1,5 +1,6 @@
 # Pacman Lamp
-A led lamp displaying the difficult life of Pacman
+An RBG led strip displaying the difficult life of Pacman
+This project uses an Adafruit Neopixel RGB Led strip and an Arduino UNO
 
 ## How to use
 - Get an Arduino board
