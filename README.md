@@ -1,4 +1,4 @@
-# PacmanLamp
+# Pacman Lamp
 A led lamp displaying the difficult life of Pacman
 
 ## How to use
