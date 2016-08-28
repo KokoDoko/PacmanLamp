@@ -6,3 +6,5 @@ A led lamp displaying the difficult life of Pacman
 - Get a Adafruit Neopixel RGB Led strip
 - Connect them using the diagram
 - Upload the code to your board
+
+![Pacman lamp diagram](/pacmanlamp_diagram.png?raw=true "Pacman lamp diagram")
