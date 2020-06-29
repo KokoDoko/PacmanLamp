@@ -13,7 +13,7 @@ This project uses an Adafruit Neopixel RGB Led strip and an Arduino UNO
 
 ## More info
 
-[http://www.eerkmans.nl/pacman-lamp-with-arduino](Read more about the pacman lamp here)
+<a href="https://www.eerkmans.nl/pacman-lamp-with-arduino">Read more about the pacman lamp here</a>
 
 ## License
 
